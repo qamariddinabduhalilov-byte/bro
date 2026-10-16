@@ -1,0 +1,5 @@
+.env
+ecosystem.db
+uploads/
+__pycache__/
+*.pyc
